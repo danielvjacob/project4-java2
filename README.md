@@ -1,10 +1,5 @@
 # Project 4: A Simple Nonogram Maker
 
-> There are two ways of constructing a software design: One way is to make it
-> so simple that there are obviously no deficiencies, and the other way is to
-> make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
->
-> &mdash;C.A.R. Hoare (British computer scientist, winner of the 1980 Turing Award)
 
 [Nonograms](https://en.wikipedia.org/wiki/Nonogram) are grid-based logic puzzles invented independently by Non Ishida and Tetsuya Nishio in 1987.
 Over the past decade, they've become increasingly popular in video game form, where they are more commonly known by Nintendo's trademarked name, "Picross" (a portmanteau of "picture" and "crossword").
@@ -317,6 +312,3 @@ Main creates the application window and has methods to display the options menu 
     1. Add the style sheet `style.css` to the scene. If you dislike the color scheme, create your own style sheet! (The file `style.css` is included in the src directory.)
     1. Add the application name to the title bar, prevent the window from resizing, and then show the window.
 
-## Submission and Grading
-
-Submission and grading requirements are given on Canvas.
