@@ -1,8 +1,7 @@
 # Project 4: A Simple Nonogram Maker
 
 
-[Nonograms](https://en.wikipedia.org/wiki/Nonogram) are grid-based logic puzzles invented independently by Non Ishida and Tetsuya Nishio in 1987.
-Over the past decade, they've become increasingly popular in video game form, where they are more commonly known by Nintendo's trademarked name, "Picross" (a portmanteau of "picture" and "crossword").
+[Nonograms](https://en.wikipedia.org/wiki/Nonogram) are grid-based logic puzzles
 
 A nonogram consists of a grid of cells in which each row and each column are labeled by a list of numbers.
 The cells can be in two states, empty or filled, and the numbers indicate which cells are filled.
